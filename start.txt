@@ -1,0 +1,2 @@
+Test Git Quick Start demo: >> start.xt
+echo Test Git Quick Start demo:
